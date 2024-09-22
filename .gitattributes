@@ -1,0 +1,6 @@
+DecisionTransformer/Dataset/NegaMaxAgentVsRandomAgentDatasetWithoutDups filter=lfs diff=lfs merge=lfs -text
+DecisionTransformer/Dataset/RandomAgentVsRandomAgentDataset filter=lfs diff=lfs merge=lfs -text
+DecisionTransformer/Dataset/RandomAgentVsRandomAgentDatasetWithoutDups filter=lfs diff=lfs merge=lfs -text
+DecisionTransformer/Dataset/NegaMaxAgentVsNegaMaxAgentDataset filter=lfs diff=lfs merge=lfs -text
+DecisionTransformer/Dataset/NegaMaxAgentVsNegaMaxAgentDatasetWithoutDups filter=lfs diff=lfs merge=lfs -text
+DecisionTransformer/Dataset/NegaMaxAgentVsRandomAgentDataset filter=lfs diff=lfs merge=lfs -text
